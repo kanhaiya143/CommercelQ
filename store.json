@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "COM",
+            "author": "Lal",
+            "views": 10000,
+            "reviews": 100
+        }
+    ],
+    "authors": []
+}
